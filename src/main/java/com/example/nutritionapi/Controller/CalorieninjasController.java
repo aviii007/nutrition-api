@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 @RestController
 public class CalorieninjasController {
 
-    private static final String RAPID_API_KEY = "3fe421aa57mshdfd4147f4d4c319p1ba7f4jsnca7d59efce2d";
+    private static final String RAPID_API_KEY = "Your_api_key";
     private static final String RAPID_API_HOST = "calorieninjas.p.rapidapi.com";
 
     @Autowired
